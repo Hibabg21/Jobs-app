@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Développeur Vue",
+      "description": "Développement front-end avec Vue.js",
+      "salary": 8000,
+      "createdAt": "2026-10-01",
+      "experience": 2
+    },
+    {
+      "id": "2",
+      "title": "Data Analyst",
+      "description": "Analyse et visualisation des données",
+      "salary": 9000,
+      "createdAt": "2026-10-05",
+      "experience": 1
+    },
+    {
+      "id": "3",
+      "title": "Ingénieur IA",
+      "description": "Conception de modèles de machine learning",
+      "salary": 12000,
+      "createdAt": "2026-10-10",
+      "experience": 3
+    }
+  ]
+}
